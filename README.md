@@ -1,6 +1,6 @@
 # hello-world
 
-hi all
+hi humans!
 
-farah here, i like industrial engineering (thats what i study)
-i study industrial engineering at the university of jordan
+farah here, i like node.js and coffeescript (thats what i`m made of!).
+i`ve tacos on the moon and find them far superior to earth tacos.
